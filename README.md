@@ -34,7 +34,7 @@ Traverse to the project directory
 ```bash
 cd react-todos
 ```
-Install the dependencis
+Install the dependencies
 ```bash
 npm -i
 ```
