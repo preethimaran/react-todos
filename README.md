@@ -44,6 +44,10 @@ Run the below in the project directory
 ```bash
 npm run dev
 ```
+Then open the below link in browser
+```
+localhost:5173
+```
 
 ## Author
 (Preethi Maran)[https://github.com/preethimaran]
