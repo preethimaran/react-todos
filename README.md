@@ -1,4 +1,4 @@
-<img width="409" height="405" align="center" alt="Screenshot 2026-05-26 114833" src="https://github.com/user-attachments/assets/cb295a16-bba4-454d-bdcf-a7063cc97d73" />
+<img width="409" height="405" style="display: block; margin: auto;" alt="Screenshot 2026-05-26 114833" src="https://github.com/user-attachments/assets/cb295a16-bba4-454d-bdcf-a7063cc97d73" />
 
 
 # React Todo List
