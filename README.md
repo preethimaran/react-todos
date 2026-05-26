@@ -9,6 +9,9 @@ React Todos is a simple application built using React that enables users to keep
 - Keep track of the completion status with checkboxes
 - Remove a task
 
+## Deployment
+React todos has been deployed using Vercel. Click here to access the website.
+
 
 
 
