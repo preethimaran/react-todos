@@ -16,7 +16,8 @@ React todos has been deployed using Vercel. Click here to access the website.
 - React
 
 ## Website Screenshots
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8b5cbbc-8120-44c2-ba07-77b74d1a5338" />
+<img width="1920" height="1080" alt="todo_size_1" src="https://github.com/user-attachments/assets/dbbf61b9-2cb4-4212-a3dc-322e0f64da21" />
+<img width="1920" height="1080" alt="todo_size_2" src="https://github.com/user-attachments/assets/b7266c8d-c0d4-453a-a733-e90e8326014e" />
 
 
 
