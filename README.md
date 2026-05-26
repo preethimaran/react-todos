@@ -3,7 +3,7 @@
 </p>
 
 # React Todos
-A minimalistic application that allows users to add tasks to their virtual todo list. (Click here)[https://react-todos-gilt-delta.vercel.app/] to go to the website
+A minimalistic application that allows users to add tasks to their virtual todo list. [Click here](https://react-todos-gilt-delta.vercel.app/) to go to the website
 
 ## Description
 React Todos is a simple application built using React that enables users to keep track of all their Todo tasks in one place. Users can add tasks, mark them as completed/not-completed or remove them.
@@ -14,7 +14,7 @@ React Todos is a simple application built using React that enables users to keep
 - Remove a task
 
 ## Deployment
-React todos has been deployed using Vercel. Click here to access the website.
+React todos has been deployed using Vercel. [Click here](https://react-todos-gilt-delta.vercel.app/) to access the website.
 
 ## Tech Stack Used
 - React
