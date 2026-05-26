@@ -2,8 +2,8 @@
 <img width="409" height="405" alt="Screenshot 2026-05-26 114833" src="https://github.com/user-attachments/assets/cb295a16-bba4-454d-bdcf-a7063cc97d73" />
 </p>
 
-# React Todo List
-A minimalistic application that allows users to add tasks to their virtual todo list. Click here to go to the website
+# React Todos
+A minimalistic application that allows users to add tasks to their virtual todo list. (Click here)[https://react-todos-gilt-delta.vercel.app/] to go to the website
 
 ## Description
 React Todos is a simple application built using React that enables users to keep track of all their Todo tasks in one place. Users can add tasks, mark them as completed/not-completed or remove them.
