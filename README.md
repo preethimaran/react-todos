@@ -28,7 +28,7 @@ React todos has been deployed using Vercel. [Click here](https://react-todos-gil
 ### Installtion
 Clone the Repo
 ```bash
-https://github.com/preethimaran/react-todos.git
+git clone https://github.com/preethimaran/react-todos.git
 ```
 Traverse to the project directory
 ```bash
