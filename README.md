@@ -50,7 +50,7 @@ localhost:5173
 ```
 
 ## Author
-(Preethi Maran)[https://github.com/preethimaran]
+[Preethi Maran](https://github.com/preethimaran)
 
 
 
