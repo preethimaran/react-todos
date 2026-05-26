@@ -1,5 +1,6 @@
-<img width="409" height="405" style="display: block; margin: auto;" alt="Screenshot 2026-05-26 114833" src="https://github.com/user-attachments/assets/cb295a16-bba4-454d-bdcf-a7063cc97d73" />
-
+<p align="center">
+<img width="409" height="405" alt="Screenshot 2026-05-26 114833" src="https://github.com/user-attachments/assets/cb295a16-bba4-454d-bdcf-a7063cc97d73" />
+</p>
 
 # React Todo List
 A minimalistic application that allows users to add tasks to their virtual todo list. Click here to go to the website
