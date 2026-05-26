@@ -12,6 +12,11 @@ React Todos is a simple application built using React that enables users to keep
 ## Deployment
 React todos has been deployed using Vercel. Click here to access the website.
 
+## Tech Stack Used
+-React
+
+## Website Screenshots
+
 
 
 
