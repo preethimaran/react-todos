@@ -37,12 +37,13 @@ cd react-todos
 Install the dependencis
 ```bash
 npm -i
-
+```
 ### Running the project
 
 Run the below in the project directory
 ```bash
 npm run dev
+```
 
 ## Author
 (Preethi Maran)[https://github.com/preethimaran]
